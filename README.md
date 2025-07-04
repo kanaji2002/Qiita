@@ -1,2 +1,2 @@
-# Qiita　の記事です．
-Qiita https://qiita.com/kanaji2002
+# Qiitaの記事です．
+https://qiita.com/kanaji2002
